@@ -1,0 +1,10 @@
+{
+  "name": "test_task",
+  "target": "You have a shell access to a linux environment, you are going to execute a rust project inside this environment. Please explore the environment for necessary informations for the later task.",
+  "tools": [
+    "shell",
+    "draft"
+  ],
+  "model": "deepseek-r1-distill-qwen-14b@q4_k_m",
+  "max_iterations": 200
+}
